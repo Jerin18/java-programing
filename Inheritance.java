@@ -12,8 +12,9 @@ class B extends A{
 public class Inheritance{
         public static void main(String[] args){
             B ob=new B();
-            ob.Car();
+            ob.car();
+            ob.bike();
         }
     }
-    
+
     
